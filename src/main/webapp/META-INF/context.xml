@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Context docBase="C:\Temp\spring-mvc.war">
+</Context>
+
+<!-- rename this file to path1#path2.xml and place it inside $Catalina/conf/Catalina/localhost  -->
+<!-- then access the app by http://localhost:8080/path1/path2/helloworld.html -->
+<!-- don't set the path as the xml file name overrides the path  -->
+<!-- the war shouldn't be placed inside webapps as it makes double deployment -->

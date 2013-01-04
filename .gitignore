@@ -1,6 +1,15 @@
 *.class
+.settings
+.classpath
+.project
+.metadata
+.springBeans
+.DS_Store
+bin
+target
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
